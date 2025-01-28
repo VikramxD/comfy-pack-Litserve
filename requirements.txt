@@ -2,3 +2,9 @@ bentoml
 fastapi
 comfy-cli
 duckduckgo-search
+
+# Optional LitServe dependencies
+git+https://github.com/Lightning-AI/LitServe.git
+typer>=0.9.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
